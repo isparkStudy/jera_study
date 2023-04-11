@@ -1,0 +1,7 @@
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\bin\Debug\HelloWorldCoreWithVisualStudio.exe.config
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\bin\Debug\HelloWorldCoreWithVisualStudio.exe
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\bin\Debug\HelloWorldCoreWithVisualStudio.pdb
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\obj\Debug\HelloWorldCoreWithVisualStudio.csproj.AssemblyReference.cache
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\obj\Debug\HelloWorldCoreWithVisualStudio.csproj.CoreCompileInputs.cache
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\obj\Debug\HelloWorldCoreWithVisualStudio.exe
+C:\C#\HelloWorldCoreWithVisualStudio\HelloWorldCoreWithVisualStudio\obj\Debug\HelloWorldCoreWithVisualStudio.pdb
