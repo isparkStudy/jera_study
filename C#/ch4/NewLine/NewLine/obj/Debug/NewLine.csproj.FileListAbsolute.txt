@@ -1,0 +1,7 @@
+C:\C#\NewLine\NewLine\bin\Debug\NewLine.exe.config
+C:\C#\NewLine\NewLine\bin\Debug\NewLine.exe
+C:\C#\NewLine\NewLine\bin\Debug\NewLine.pdb
+C:\C#\NewLine\NewLine\obj\Debug\NewLine.csproj.AssemblyReference.cache
+C:\C#\NewLine\NewLine\obj\Debug\NewLine.csproj.CoreCompileInputs.cache
+C:\C#\NewLine\NewLine\obj\Debug\NewLine.exe
+C:\C#\NewLine\NewLine\obj\Debug\NewLine.pdb

@@ -1,0 +1,6 @@
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\obj\Debug\PlaceHolderMulti.csproj.CoreCompileInputs.cache
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\bin\Debug\PlaceHolderMulti.exe.config
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\bin\Debug\PlaceHolderMulti.exe
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\bin\Debug\PlaceHolderMulti.pdb
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\obj\Debug\PlaceHolderMulti.exe
+C:\C#\PlaceHolderMulti\PlaceHolderMulti\obj\Debug\PlaceHolderMulti.pdb

@@ -1,0 +1,6 @@
+C:\C#\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.exe.config
+C:\C#\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.exe
+C:\C#\PlaceHolder\PlaceHolder\bin\Debug\PlaceHolder.pdb
+C:\C#\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.csproj.CoreCompileInputs.cache
+C:\C#\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.exe
+C:\C#\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.pdb

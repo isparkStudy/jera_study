@@ -1,0 +1,6 @@
+C:\C#\Whitespace\Whitespace\bin\Debug\Whitespace.exe.config
+C:\C#\Whitespace\Whitespace\bin\Debug\Whitespace.exe
+C:\C#\Whitespace\Whitespace\bin\Debug\Whitespace.pdb
+C:\C#\Whitespace\Whitespace\obj\Debug\Whitespace.csproj.CoreCompileInputs.cache
+C:\C#\Whitespace\Whitespace\obj\Debug\Whitespace.exe
+C:\C#\Whitespace\Whitespace\obj\Debug\Whitespace.pdb

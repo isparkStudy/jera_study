@@ -1,0 +1,6 @@
+C:\C#\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\C#\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\C#\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\C#\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\C#\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\C#\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb

@@ -1,0 +1,6 @@
+C:\C#\Comment\Comment\bin\Debug\Comment.exe.config
+C:\C#\Comment\Comment\bin\Debug\Comment.exe
+C:\C#\Comment\Comment\bin\Debug\Comment.pdb
+C:\C#\Comment\Comment\obj\Debug\Comment.csproj.CoreCompileInputs.cache
+C:\C#\Comment\Comment\obj\Debug\Comment.exe
+C:\C#\Comment\Comment\obj\Debug\Comment.pdb
