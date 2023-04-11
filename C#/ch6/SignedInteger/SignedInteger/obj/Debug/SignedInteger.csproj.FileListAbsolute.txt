@@ -1,0 +1,7 @@
+C:\C#\ch6\SignedInteger\SignedInteger\bin\Debug\SignedInteger.exe.config
+C:\C#\ch6\SignedInteger\SignedInteger\bin\Debug\SignedInteger.exe
+C:\C#\ch6\SignedInteger\SignedInteger\bin\Debug\SignedInteger.pdb
+C:\C#\ch6\SignedInteger\SignedInteger\obj\Debug\SignedInteger.csproj.CoreCompileInputs.cache
+C:\C#\ch6\SignedInteger\SignedInteger\obj\Debug\SignedInteger.exe
+C:\C#\ch6\SignedInteger\SignedInteger\obj\Debug\SignedInteger.pdb
+C:\C#\ch6\SignedInteger\SignedInteger\obj\Debug\SignedInteger.csproj.AssemblyReference.cache

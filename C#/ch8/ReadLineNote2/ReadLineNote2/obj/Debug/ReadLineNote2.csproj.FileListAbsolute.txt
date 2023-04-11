@@ -1,0 +1,6 @@
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\bin\Debug\ReadLineNote2.exe.config
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\bin\Debug\ReadLineNote2.exe
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\bin\Debug\ReadLineNote2.pdb
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\obj\Debug\ReadLineNote2.csproj.CoreCompileInputs.cache
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\obj\Debug\ReadLineNote2.exe
+C:\C#\ch8\ReadLineNote2\ReadLineNote2\obj\Debug\ReadLineNote2.pdb

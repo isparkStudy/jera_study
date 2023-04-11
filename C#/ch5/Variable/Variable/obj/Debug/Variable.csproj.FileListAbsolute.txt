@@ -1,0 +1,6 @@
+C:\C#\ch5\Variable\Variable\bin\Debug\Variable.exe.config
+C:\C#\ch5\Variable\Variable\bin\Debug\Variable.exe
+C:\C#\ch5\Variable\Variable\bin\Debug\Variable.pdb
+C:\C#\ch5\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\C#\ch5\Variable\Variable\obj\Debug\Variable.exe
+C:\C#\ch5\Variable\Variable\obj\Debug\Variable.pdb

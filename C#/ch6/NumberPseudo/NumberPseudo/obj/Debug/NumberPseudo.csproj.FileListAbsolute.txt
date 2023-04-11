@@ -1,0 +1,7 @@
+C:\C#\ch6\NumberPseudo\NumberPseudo\bin\Debug\NumberPseudo.exe.config
+C:\C#\ch6\NumberPseudo\NumberPseudo\bin\Debug\NumberPseudo.exe
+C:\C#\ch6\NumberPseudo\NumberPseudo\bin\Debug\NumberPseudo.pdb
+C:\C#\ch6\NumberPseudo\NumberPseudo\obj\Debug\NumberPseudo.csproj.AssemblyReference.cache
+C:\C#\ch6\NumberPseudo\NumberPseudo\obj\Debug\NumberPseudo.csproj.CoreCompileInputs.cache
+C:\C#\ch6\NumberPseudo\NumberPseudo\obj\Debug\NumberPseudo.exe
+C:\C#\ch6\NumberPseudo\NumberPseudo\obj\Debug\NumberPseudo.pdb

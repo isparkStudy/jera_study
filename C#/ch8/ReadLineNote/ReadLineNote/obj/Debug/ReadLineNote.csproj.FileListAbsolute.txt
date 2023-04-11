@@ -1,0 +1,7 @@
+C:\C#\ch8\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe.config
+C:\C#\ch8\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe
+C:\C#\ch8\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.pdb
+C:\C#\ch8\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.AssemblyReference.cache
+C:\C#\ch8\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.CoreCompileInputs.cache
+C:\C#\ch8\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.exe
+C:\C#\ch8\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.pdb

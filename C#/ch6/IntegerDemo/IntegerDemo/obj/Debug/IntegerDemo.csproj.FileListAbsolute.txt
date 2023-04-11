@@ -1,0 +1,7 @@
+C:\C#\ch6\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe.config
+C:\C#\ch6\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe
+C:\C#\ch6\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.pdb
+C:\C#\ch6\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csproj.AssemblyReference.cache
+C:\C#\ch6\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csproj.CoreCompileInputs.cache
+C:\C#\ch6\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.exe
+C:\C#\ch6\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.pdb
