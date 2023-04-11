@@ -1,0 +1,6 @@
+C:\C#\ch10\IncrementOperator\IncrementOperator\obj\Debug\IncrementOperator.csproj.CoreCompileInputs.cache
+C:\C#\ch10\IncrementOperator\IncrementOperator\bin\Debug\IncrementOperator.exe.config
+C:\C#\ch10\IncrementOperator\IncrementOperator\bin\Debug\IncrementOperator.exe
+C:\C#\ch10\IncrementOperator\IncrementOperator\bin\Debug\IncrementOperator.pdb
+C:\C#\ch10\IncrementOperator\IncrementOperator\obj\Debug\IncrementOperator.exe
+C:\C#\ch10\IncrementOperator\IncrementOperator\obj\Debug\IncrementOperator.pdb

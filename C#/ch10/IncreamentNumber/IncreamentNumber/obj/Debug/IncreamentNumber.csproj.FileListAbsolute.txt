@@ -1,0 +1,7 @@
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\obj\Debug\IncreamentNumber.csproj.AssemblyReference.cache
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\obj\Debug\IncreamentNumber.csproj.CoreCompileInputs.cache
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\bin\Debug\IncreamentNumber.exe.config
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\bin\Debug\IncreamentNumber.exe
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\bin\Debug\IncreamentNumber.pdb
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\obj\Debug\IncreamentNumber.exe
+C:\C#\ch10\IncreamentNumber\IncreamentNumber\obj\Debug\IncreamentNumber.pdb

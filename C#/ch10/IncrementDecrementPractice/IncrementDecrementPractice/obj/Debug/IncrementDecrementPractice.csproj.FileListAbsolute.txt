@@ -1,0 +1,6 @@
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\bin\Debug\IncrementDecrementPractice.exe.config
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\bin\Debug\IncrementDecrementPractice.exe
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\bin\Debug\IncrementDecrementPractice.pdb
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\obj\Debug\IncrementDecrementPractice.csproj.CoreCompileInputs.cache
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\obj\Debug\IncrementDecrementPractice.exe
+C:\C#\ch10\IncrementDecrementPractice\IncrementDecrementPractice\obj\Debug\IncrementDecrementPractice.pdb

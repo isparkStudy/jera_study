@@ -1,0 +1,6 @@
+C:\C#\ch10\PrefixOperator\PrefixOperator\bin\Debug\PrefixOperator.exe.config
+C:\C#\ch10\PrefixOperator\PrefixOperator\bin\Debug\PrefixOperator.exe
+C:\C#\ch10\PrefixOperator\PrefixOperator\bin\Debug\PrefixOperator.pdb
+C:\C#\ch10\PrefixOperator\PrefixOperator\obj\Debug\PrefixOperator.csproj.CoreCompileInputs.cache
+C:\C#\ch10\PrefixOperator\PrefixOperator\obj\Debug\PrefixOperator.exe
+C:\C#\ch10\PrefixOperator\PrefixOperator\obj\Debug\PrefixOperator.pdb

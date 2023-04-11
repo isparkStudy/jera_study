@@ -1,0 +1,6 @@
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\bin\Debug\ShortcutOperator.exe.config
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\bin\Debug\ShortcutOperator.exe
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\bin\Debug\ShortcutOperator.pdb
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\obj\Debug\ShortcutOperator.csproj.CoreCompileInputs.cache
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\obj\Debug\ShortcutOperator.exe
+C:\C#\ch10\ShortcutOperator\ShortcutOperator\obj\Debug\ShortcutOperator.pdb
