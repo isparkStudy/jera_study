@@ -1,0 +1,6 @@
+C:\C#\2day\ch15\ForDescription\ForDescription\bin\Debug\ForDescription.exe.config
+C:\C#\2day\ch15\ForDescription\ForDescription\bin\Debug\ForDescription.exe
+C:\C#\2day\ch15\ForDescription\ForDescription\bin\Debug\ForDescription.pdb
+C:\C#\2day\ch15\ForDescription\ForDescription\obj\Debug\ForDescription.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch15\ForDescription\ForDescription\obj\Debug\ForDescription.exe
+C:\C#\2day\ch15\ForDescription\ForDescription\obj\Debug\ForDescription.pdb

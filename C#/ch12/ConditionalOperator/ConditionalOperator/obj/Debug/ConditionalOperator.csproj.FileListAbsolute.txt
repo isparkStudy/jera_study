@@ -1,0 +1,6 @@
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe.config
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.pdb
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.exe
+C:\C#\2day\ch12\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.pdb

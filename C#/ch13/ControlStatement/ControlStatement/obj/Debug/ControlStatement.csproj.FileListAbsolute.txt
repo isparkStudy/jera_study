@@ -1,0 +1,7 @@
+C:\C#\2day\ch13\ControlStatement\ControlStatement\bin\Debug\ControlStatement.exe.config
+C:\C#\2day\ch13\ControlStatement\ControlStatement\bin\Debug\ControlStatement.exe
+C:\C#\2day\ch13\ControlStatement\ControlStatement\bin\Debug\ControlStatement.pdb
+C:\C#\2day\ch13\ControlStatement\ControlStatement\obj\Debug\ControlStatement.csproj.AssemblyReference.cache
+C:\C#\2day\ch13\ControlStatement\ControlStatement\obj\Debug\ControlStatement.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch13\ControlStatement\ControlStatement\obj\Debug\ControlStatement.exe
+C:\C#\2day\ch13\ControlStatement\ControlStatement\obj\Debug\ControlStatement.pdb

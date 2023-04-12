@@ -1,0 +1,6 @@
+C:\C#\2day\ch17\Goto\Goto\bin\Debug\Goto.exe.config
+C:\C#\2day\ch17\Goto\Goto\bin\Debug\Goto.exe
+C:\C#\2day\ch17\Goto\Goto\bin\Debug\Goto.pdb
+C:\C#\2day\ch17\Goto\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch17\Goto\Goto\obj\Debug\Goto.exe
+C:\C#\2day\ch17\Goto\Goto\obj\Debug\Goto.pdb

@@ -1,0 +1,6 @@
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\bin\Debug\RepetitiveStatement.exe.config
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\bin\Debug\RepetitiveStatement.exe
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\bin\Debug\RepetitiveStatement.pdb
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\obj\Debug\RepetitiveStatement.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\obj\Debug\RepetitiveStatement.exe
+C:\C#\2day\ch16\RepetitiveStatement\RepetitiveStatement\obj\Debug\RepetitiveStatement.pdb

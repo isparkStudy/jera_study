@@ -1,0 +1,7 @@
+C:\C#\2day\ch12\Bit\Bit\bin\Debug\Bit.exe.config
+C:\C#\2day\ch12\Bit\Bit\bin\Debug\Bit.exe
+C:\C#\2day\ch12\Bit\Bit\bin\Debug\Bit.pdb
+C:\C#\2day\ch12\Bit\Bit\obj\Debug\Bit.csproj.AssemblyReference.cache
+C:\C#\2day\ch12\Bit\Bit\obj\Debug\Bit.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch12\Bit\Bit\obj\Debug\Bit.exe
+C:\C#\2day\ch12\Bit\Bit\obj\Debug\Bit.pdb

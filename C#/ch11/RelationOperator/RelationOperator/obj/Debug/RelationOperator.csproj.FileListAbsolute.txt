@@ -1,0 +1,6 @@
+C:\C#\2day\Debug\RelationOperator\RelationOperator\bin\Debug\RelationOperator.exe.config
+C:\C#\2day\Debug\RelationOperator\RelationOperator\bin\Debug\RelationOperator.exe
+C:\C#\2day\Debug\RelationOperator\RelationOperator\bin\Debug\RelationOperator.pdb
+C:\C#\2day\Debug\RelationOperator\RelationOperator\obj\Debug\RelationOperator.csproj.CoreCompileInputs.cache
+C:\C#\2day\Debug\RelationOperator\RelationOperator\obj\Debug\RelationOperator.exe
+C:\C#\2day\Debug\RelationOperator\RelationOperator\obj\Debug\RelationOperator.pdb

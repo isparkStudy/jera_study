@@ -1,0 +1,6 @@
+C:\C#\2day\ch12\Shift\Shift\bin\Debug\Shift.exe.config
+C:\C#\2day\ch12\Shift\Shift\bin\Debug\Shift.exe
+C:\C#\2day\ch12\Shift\Shift\bin\Debug\Shift.pdb
+C:\C#\2day\ch12\Shift\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch12\Shift\Shift\obj\Debug\Shift.exe
+C:\C#\2day\ch12\Shift\Shift\obj\Debug\Shift.pdb
