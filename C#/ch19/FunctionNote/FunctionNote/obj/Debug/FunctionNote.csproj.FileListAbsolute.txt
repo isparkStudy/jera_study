@@ -1,0 +1,7 @@
+C:\C#\2day\ch19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe.config
+C:\C#\2day\ch19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe
+C:\C#\2day\ch19\FunctionNote\FunctionNote\bin\Debug\FunctionNote.pdb
+C:\C#\2day\ch19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.AssemblyReference.cache
+C:\C#\2day\ch19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.exe
+C:\C#\2day\ch19\FunctionNote\FunctionNote\obj\Debug\FunctionNote.pdb

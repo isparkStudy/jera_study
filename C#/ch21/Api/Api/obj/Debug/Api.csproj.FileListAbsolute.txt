@@ -1,0 +1,7 @@
+C:\C#\2day\ch21\Api\Api\bin\Debug\Api.exe.config
+C:\C#\2day\ch21\Api\Api\bin\Debug\Api.exe
+C:\C#\2day\ch21\Api\Api\bin\Debug\Api.pdb
+C:\C#\2day\ch21\Api\Api\obj\Debug\Api.csproj.AssemblyReference.cache
+C:\C#\2day\ch21\Api\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch21\Api\Api\obj\Debug\Api.exe
+C:\C#\2day\ch21\Api\Api\obj\Debug\Api.pdb
