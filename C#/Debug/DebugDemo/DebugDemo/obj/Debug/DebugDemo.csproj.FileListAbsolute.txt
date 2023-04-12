@@ -1,0 +1,7 @@
+C:\C#\2day\Debug\DebugDemo\DebugDemo\bin\Debug\DebugDemo.exe.config
+C:\C#\2day\Debug\DebugDemo\DebugDemo\bin\Debug\DebugDemo.exe
+C:\C#\2day\Debug\DebugDemo\DebugDemo\bin\Debug\DebugDemo.pdb
+C:\C#\2day\Debug\DebugDemo\DebugDemo\obj\Debug\DebugDemo.csproj.AssemblyReference.cache
+C:\C#\2day\Debug\DebugDemo\DebugDemo\obj\Debug\DebugDemo.csproj.CoreCompileInputs.cache
+C:\C#\2day\Debug\DebugDemo\DebugDemo\obj\Debug\DebugDemo.exe
+C:\C#\2day\Debug\DebugDemo\DebugDemo\obj\Debug\DebugDemo.pdb
