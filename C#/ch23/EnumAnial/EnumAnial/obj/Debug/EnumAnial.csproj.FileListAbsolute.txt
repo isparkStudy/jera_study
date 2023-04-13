@@ -1,0 +1,6 @@
+C:\C#\3day\ch23\EnumAnial\EnumAnial\bin\Debug\EnumAnial.exe.config
+C:\C#\3day\ch23\EnumAnial\EnumAnial\bin\Debug\EnumAnial.exe
+C:\C#\3day\ch23\EnumAnial\EnumAnial\bin\Debug\EnumAnial.pdb
+C:\C#\3day\ch23\EnumAnial\EnumAnial\obj\Debug\EnumAnial.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch23\EnumAnial\EnumAnial\obj\Debug\EnumAnial.exe
+C:\C#\3day\ch23\EnumAnial\EnumAnial\obj\Debug\EnumAnial.pdb

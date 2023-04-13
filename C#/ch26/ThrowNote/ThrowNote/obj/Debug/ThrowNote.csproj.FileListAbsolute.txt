@@ -1,0 +1,6 @@
+C:\C#\3day\ch26\ThrowNote\ThrowNote\bin\Debug\ThrowNote.exe.config
+C:\C#\3day\ch26\ThrowNote\ThrowNote\bin\Debug\ThrowNote.exe
+C:\C#\3day\ch26\ThrowNote\ThrowNote\bin\Debug\ThrowNote.pdb
+C:\C#\3day\ch26\ThrowNote\ThrowNote\obj\Debug\ThrowNote.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch26\ThrowNote\ThrowNote\obj\Debug\ThrowNote.exe
+C:\C#\3day\ch26\ThrowNote\ThrowNote\obj\Debug\ThrowNote.pdb

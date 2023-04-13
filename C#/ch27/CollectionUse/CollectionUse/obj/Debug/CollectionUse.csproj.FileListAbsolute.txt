@@ -1,0 +1,7 @@
+C:\C#\3day\ch27\CollectionUse\CollectionUse\bin\Debug\CollectionUse.exe.config
+C:\C#\3day\ch27\CollectionUse\CollectionUse\bin\Debug\CollectionUse.exe
+C:\C#\3day\ch27\CollectionUse\CollectionUse\bin\Debug\CollectionUse.pdb
+C:\C#\3day\ch27\CollectionUse\CollectionUse\obj\Debug\CollectionUse.csproj.AssemblyReference.cache
+C:\C#\3day\ch27\CollectionUse\CollectionUse\obj\Debug\CollectionUse.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch27\CollectionUse\CollectionUse\obj\Debug\CollectionUse.exe
+C:\C#\3day\ch27\CollectionUse\CollectionUse\obj\Debug\CollectionUse.pdb

@@ -1,0 +1,7 @@
+C:\C#\2day\ch22\StructureTypes\StructureTypes\bin\Debug\StructureTypes.exe.config
+C:\C#\2day\ch22\StructureTypes\StructureTypes\bin\Debug\StructureTypes.exe
+C:\C#\2day\ch22\StructureTypes\StructureTypes\bin\Debug\StructureTypes.pdb
+C:\C#\2day\ch22\StructureTypes\StructureTypes\obj\Debug\StructureTypes.csproj.AssemblyReference.cache
+C:\C#\2day\ch22\StructureTypes\StructureTypes\obj\Debug\StructureTypes.csproj.CoreCompileInputs.cache
+C:\C#\2day\ch22\StructureTypes\StructureTypes\obj\Debug\StructureTypes.exe
+C:\C#\2day\ch22\StructureTypes\StructureTypes\obj\Debug\StructureTypes.pdb

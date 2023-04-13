@@ -1,0 +1,6 @@
+C:\C#\3day\ch24\ClassUse\ClassUse\bin\Debug\ClassUse.exe.config
+C:\C#\3day\ch24\ClassUse\ClassUse\bin\Debug\ClassUse.exe
+C:\C#\3day\ch24\ClassUse\ClassUse\bin\Debug\ClassUse.pdb
+C:\C#\3day\ch24\ClassUse\ClassUse\obj\Debug\ClassUse.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch24\ClassUse\ClassUse\obj\Debug\ClassUse.exe
+C:\C#\3day\ch24\ClassUse\ClassUse\obj\Debug\ClassUse.pdb

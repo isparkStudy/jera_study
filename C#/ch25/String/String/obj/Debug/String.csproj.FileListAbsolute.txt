@@ -1,0 +1,6 @@
+C:\C#\3day\ch25\String\String\bin\Debug\String.exe.config
+C:\C#\3day\ch25\String\String\bin\Debug\String.exe
+C:\C#\3day\ch25\String\String\bin\Debug\String.pdb
+C:\C#\3day\ch25\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch25\String\String\obj\Debug\String.exe
+C:\C#\3day\ch25\String\String\obj\Debug\String.pdb

@@ -1,0 +1,7 @@
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\obj\Debug\EnumerationTest.csproj.AssemblyReference.cache
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\obj\Debug\EnumerationTest.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\bin\Debug\EnumerationTest.exe.config
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\bin\Debug\EnumerationTest.exe
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\bin\Debug\EnumerationTest.pdb
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\obj\Debug\EnumerationTest.exe
+C:\C#\3day\ch23\EnumerationTest\EnumerationTest\obj\Debug\EnumerationTest.pdb

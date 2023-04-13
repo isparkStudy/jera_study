@@ -1,0 +1,6 @@
+C:\C#\3day\ch26\Exception\Exception\bin\Debug\Exception.exe.config
+C:\C#\3day\ch26\Exception\Exception\bin\Debug\Exception.exe
+C:\C#\3day\ch26\Exception\Exception\bin\Debug\Exception.pdb
+C:\C#\3day\ch26\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch26\Exception\Exception\obj\Debug\Exception.exe
+C:\C#\3day\ch26\Exception\Exception\obj\Debug\Exception.pdb

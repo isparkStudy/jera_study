@@ -1,0 +1,6 @@
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\bin\Debug\TryCatchMemo.exe.config
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\bin\Debug\TryCatchMemo.exe
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\bin\Debug\TryCatchMemo.pdb
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\obj\Debug\TryCatchMemo.csproj.CoreCompileInputs.cache
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\obj\Debug\TryCatchMemo.exe
+C:\C#\3day\ch26\TryCatchMemo\TryCatchMemo\obj\Debug\TryCatchMemo.pdb
