@@ -1,0 +1,6 @@
+C:\C#\4day\ch30\LinqTest2\LinqTest2\bin\Debug\LinqTest2.exe.config
+C:\C#\4day\ch30\LinqTest2\LinqTest2\bin\Debug\LinqTest2.exe
+C:\C#\4day\ch30\LinqTest2\LinqTest2\bin\Debug\LinqTest2.pdb
+C:\C#\4day\ch30\LinqTest2\LinqTest2\obj\Debug\LinqTest2.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch30\LinqTest2\LinqTest2\obj\Debug\LinqTest2.exe
+C:\C#\4day\ch30\LinqTest2\LinqTest2\obj\Debug\LinqTest2.pdb

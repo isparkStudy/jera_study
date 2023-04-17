@@ -1,0 +1,7 @@
+C:\C#\4day\ch29\Nulltest\Nulltest\bin\Debug\Nulltest.exe.config
+C:\C#\4day\ch29\Nulltest\Nulltest\bin\Debug\Nulltest.exe
+C:\C#\4day\ch29\Nulltest\Nulltest\bin\Debug\Nulltest.pdb
+C:\C#\4day\ch29\Nulltest\Nulltest\obj\Debug\Nulltest.csproj.AssemblyReference.cache
+C:\C#\4day\ch29\Nulltest\Nulltest\obj\Debug\Nulltest.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch29\Nulltest\Nulltest\obj\Debug\Nulltest.exe
+C:\C#\4day\ch29\Nulltest\Nulltest\obj\Debug\Nulltest.pdb

@@ -1,0 +1,7 @@
+C:\C#\4day\ch32\ObjectNote\ObjectNote\bin\Debug\ObjectNote.exe.config
+C:\C#\4day\ch32\ObjectNote\ObjectNote\bin\Debug\ObjectNote.exe
+C:\C#\4day\ch32\ObjectNote\ObjectNote\bin\Debug\ObjectNote.pdb
+C:\C#\4day\ch32\ObjectNote\ObjectNote\obj\Debug\ObjectNote.csproj.AssemblyReference.cache
+C:\C#\4day\ch32\ObjectNote\ObjectNote\obj\Debug\ObjectNote.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch32\ObjectNote\ObjectNote\obj\Debug\ObjectNote.exe
+C:\C#\4day\ch32\ObjectNote\ObjectNote\obj\Debug\ObjectNote.pdb

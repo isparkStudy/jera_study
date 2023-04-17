@@ -1,0 +1,6 @@
+C:\C#\4day\ch29\Nulltest2\Nulltest2\bin\Debug\Nulltest2.exe.config
+C:\C#\4day\ch29\Nulltest2\Nulltest2\bin\Debug\Nulltest2.exe
+C:\C#\4day\ch29\Nulltest2\Nulltest2\bin\Debug\Nulltest2.pdb
+C:\C#\4day\ch29\Nulltest2\Nulltest2\obj\Debug\Nulltest2.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch29\Nulltest2\Nulltest2\obj\Debug\Nulltest2.exe
+C:\C#\4day\ch29\Nulltest2\Nulltest2\obj\Debug\Nulltest2.pdb

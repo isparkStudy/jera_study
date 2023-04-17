@@ -1,0 +1,7 @@
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.AssemblyReference.cache
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\C#\4day\ch31\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
