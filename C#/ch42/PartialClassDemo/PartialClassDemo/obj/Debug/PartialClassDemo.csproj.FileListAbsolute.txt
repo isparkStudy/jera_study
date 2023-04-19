@@ -1,0 +1,7 @@
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe.config
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.exe
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\bin\Debug\PartialClassDemo.pdb
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.AssemblyReference.cache
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.csproj.CoreCompileInputs.cache
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.exe
+C:\C#\5day\ch42\PartialClassDemo\PartialClassDemo\obj\Debug\PartialClassDemo.pdb

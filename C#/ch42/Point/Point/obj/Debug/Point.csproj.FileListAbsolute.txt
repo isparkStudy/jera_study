@@ -1,0 +1,7 @@
+C:\C#\5day\ch42\Point\Point\bin\Debug\Point.exe.config
+C:\C#\5day\ch42\Point\Point\bin\Debug\Point.exe
+C:\C#\5day\ch42\Point\Point\bin\Debug\Point.pdb
+C:\C#\5day\ch42\Point\Point\obj\Debug\Point.csproj.AssemblyReference.cache
+C:\C#\5day\ch42\Point\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+C:\C#\5day\ch42\Point\Point\obj\Debug\Point.exe
+C:\C#\5day\ch42\Point\Point\obj\Debug\Point.pdb

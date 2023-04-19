@@ -1,0 +1,7 @@
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\bin\Debug\EventAndDelegate.exe.config
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\bin\Debug\EventAndDelegate.exe
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\bin\Debug\EventAndDelegate.pdb
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\obj\Debug\EventAndDelegate.csproj.AssemblyReference.cache
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\obj\Debug\EventAndDelegate.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\obj\Debug\EventAndDelegate.exe
+C:\C#\4day\ch41\EventAndDelegate\EventAndDelegate\obj\Debug\EventAndDelegate.pdb

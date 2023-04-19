@@ -1,0 +1,7 @@
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.exe.config
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.exe
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\bin\Debug\InterfaceNote.pdb
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.csproj.AssemblyReference.cache
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.csproj.CoreCompileInputs.cache
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.exe
+C:\C#\5day\ch45\InterfaceNote\InterfaceNote\obj\Debug\InterfaceNote.pdb

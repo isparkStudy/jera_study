@@ -1,0 +1,7 @@
+C:\C#\4day\ch40\DelegateSample\DelegateSample\bin\Debug\DelegateSample.exe.config
+C:\C#\4day\ch40\DelegateSample\DelegateSample\bin\Debug\DelegateSample.exe
+C:\C#\4day\ch40\DelegateSample\DelegateSample\bin\Debug\DelegateSample.pdb
+C:\C#\4day\ch40\DelegateSample\DelegateSample\obj\Debug\DelegateSample.csproj.CoreCompileInputs.cache
+C:\C#\4day\ch40\DelegateSample\DelegateSample\obj\Debug\DelegateSample.exe
+C:\C#\4day\ch40\DelegateSample\DelegateSample\obj\Debug\DelegateSample.pdb
+C:\C#\4day\ch40\DelegateSample\DelegateSample\obj\Debug\DelegateSample.csproj.AssemblyReference.cache

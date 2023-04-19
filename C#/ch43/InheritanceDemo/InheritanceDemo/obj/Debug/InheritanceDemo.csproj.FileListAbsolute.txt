@@ -1,0 +1,7 @@
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\C#\5day\ch43\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
