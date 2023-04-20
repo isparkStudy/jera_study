@@ -1,0 +1,7 @@
+C:\C#\6day\ch51\Tuple\Tuple\bin\Debug\Tuple.exe.config
+C:\C#\6day\ch51\Tuple\Tuple\bin\Debug\Tuple.exe
+C:\C#\6day\ch51\Tuple\Tuple\bin\Debug\Tuple.pdb
+C:\C#\6day\ch51\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+C:\C#\6day\ch51\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch51\Tuple\Tuple\obj\Debug\Tuple.exe
+C:\C#\6day\ch51\Tuple\Tuple\obj\Debug\Tuple.pdb

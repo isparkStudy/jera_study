@@ -1,0 +1,6 @@
+C:\C#\6day\ch55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.exe.config
+C:\C#\6day\ch55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.exe
+C:\C#\6day\ch55\ThreadNote\ThreadNote\bin\Debug\ThreadNote.pdb
+C:\C#\6day\ch55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.exe
+C:\C#\6day\ch55\ThreadNote\ThreadNote\obj\Debug\ThreadNote.pdb

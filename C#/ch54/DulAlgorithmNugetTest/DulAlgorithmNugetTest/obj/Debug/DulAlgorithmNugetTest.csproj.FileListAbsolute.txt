@@ -1,0 +1,9 @@
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\bin\Debug\DulAlgorithmNugetTest.exe.config
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\bin\Debug\DulAlgorithmNugetTest.exe
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\bin\Debug\DulAlgorithmNugetTest.pdb
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\bin\Debug\DulAlgorithm.dll
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\obj\Debug\DulAlgorithmNugetTest.csproj.AssemblyReference.cache
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\obj\Debug\DulAlgorithmNugetTest.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\obj\Debug\DulAlgorithmNugetTest.csproj.CopyComplete
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\obj\Debug\DulAlgorithmNugetTest.exe
+C:\C#\6day\ch54\DulAlgorithmNugetTest\DulAlgorithmNugetTest\obj\Debug\DulAlgorithmNugetTest.pdb

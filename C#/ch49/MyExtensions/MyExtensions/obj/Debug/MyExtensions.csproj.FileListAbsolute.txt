@@ -1,0 +1,7 @@
+C:\C#\6day\ch49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.exe.config
+C:\C#\6day\ch49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.exe
+C:\C#\6day\ch49\MyExtensions\MyExtensions\bin\Debug\MyExtensions.pdb
+C:\C#\6day\ch49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.csproj.AssemblyReference.cache
+C:\C#\6day\ch49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.exe
+C:\C#\6day\ch49\MyExtensions\MyExtensions\obj\Debug\MyExtensions.pdb

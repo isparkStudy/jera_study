@@ -1,0 +1,6 @@
+C:\C#\6day\ch50\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\C#\6day\ch50\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\C#\6day\ch50\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\C#\6day\ch50\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch50\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\C#\6day\ch50\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

@@ -1,0 +1,10 @@
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\bin\Debug\DulAlgorithm.ConsoleApp.exe.config
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\bin\Debug\DulAlgorithm.ConsoleApp.exe
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\bin\Debug\DulAlgorithm.ConsoleApp.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\bin\Debug\DulAlgorithm.dll
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\bin\Debug\DulAlgorithm.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\obj\Debug\DulAlgorithm.ConsoleApp.csproj.AssemblyReference.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\obj\Debug\DulAlgorithm.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\obj\Debug\DulAlgorithm.ConsoleApp.csproj.CopyComplete
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\obj\Debug\DulAlgorithm.ConsoleApp.exe
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.ConsoleApp\obj\Debug\DulAlgorithm.ConsoleApp.pdb

@@ -1,0 +1,13 @@
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\bin\Debug\DulAlgorithm.WindowsFormsApp.exe.config
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\bin\Debug\DulAlgorithm.WindowsFormsApp.exe
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\bin\Debug\DulAlgorithm.WindowsFormsApp.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.csproj.AssemblyReference.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.Properties.Resources.resources
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.csproj.GenerateResource.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.exe
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\bin\Debug\DulAlgorithm.dll
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\bin\Debug\DulAlgorithm.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.Form1.resources
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm.WindowsFormsApp\obj\Debug\DulAlgorithm.WindowsFormsApp.csproj.CopyComplete

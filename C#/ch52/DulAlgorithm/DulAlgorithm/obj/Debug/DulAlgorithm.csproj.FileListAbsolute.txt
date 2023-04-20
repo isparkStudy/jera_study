@@ -1,0 +1,6 @@
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\bin\Debug\DulAlgorithm.dll
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\bin\Debug\DulAlgorithm.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.csproj.CoreCompileInputs.cache
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.dll
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.pdb
+C:\C#\6day\ch52\DulAlgorithm\DulAlgorithm\obj\Debug\DulAlgorithm.csproj.AssemblyReference.cache
