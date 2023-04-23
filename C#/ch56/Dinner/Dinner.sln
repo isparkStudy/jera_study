@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinner.Common", "Dinner.Common\Dinner.Common.csproj", "{6C878F2C-AB90-4DD0-9C43-E630A3333E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinner.Sync", "Dinner.Sync\Dinner.Sync.csproj", "{7F36931B-73B6-4882-AB33-57448151B887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C878F2C-AB90-4DD0-9C43-E630A3333E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C878F2C-AB90-4DD0-9C43-E630A3333E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C878F2C-AB90-4DD0-9C43-E630A3333E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C878F2C-AB90-4DD0-9C43-E630A3333E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F36931B-73B6-4882-AB33-57448151B887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F36931B-73B6-4882-AB33-57448151B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F36931B-73B6-4882-AB33-57448151B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F36931B-73B6-4882-AB33-57448151B887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92F0D9C-A691-4189-BA88-0BCAE29C5E20}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.exe
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.deps.json
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.runtimeconfig.json
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.runtimeconfig.dev.json
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.dll
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\ref\WebClientDemo.dll
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\bin\Debug\net5.0\WebClientDemo.pdb
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.AssemblyInfoInputs.cache
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.AssemblyInfo.cs
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.dll
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\ref\WebClientDemo.dll
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.pdb
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.genruntimeconfig.cache
+C:\C#\7day\ch60\WebClientDemo\WebClientDemo\obj\Debug\net5.0\WebClientDemo.csproj.AssemblyReference.cache

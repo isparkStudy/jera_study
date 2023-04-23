@@ -1,0 +1,16 @@
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.exe
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.deps.json
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.runtimeconfig.json
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.runtimeconfig.dev.json
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.dll
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\ref\HttpClientDemo.dll
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\bin\Debug\net5.0\HttpClientDemo.pdb
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.csproj.AssemblyReference.cache
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.AssemblyInfo.cs
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.dll
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\ref\HttpClientDemo.dll
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.pdb
+C:\C#\7day\ch60\HttpClientDemo\HttpClientDemo\obj\Debug\net5.0\HttpClientDemo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.exe
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.deps.json
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.runtimeconfig.json
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.runtimeconfig.dev.json
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.dll
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\ref\HttpWebRequestDemo.dll
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\bin\Debug\net5.0\HttpWebRequestDemo.pdb
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.csproj.AssemblyReference.cache
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.AssemblyInfoInputs.cache
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.AssemblyInfo.cs
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.dll
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\ref\HttpWebRequestDemo.dll
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.pdb
+C:\C#\7day\ch60\HttpWebRequestDemo\HttpWebRequestDemo\obj\Debug\net5.0\HttpWebRequestDemo.genruntimeconfig.cache

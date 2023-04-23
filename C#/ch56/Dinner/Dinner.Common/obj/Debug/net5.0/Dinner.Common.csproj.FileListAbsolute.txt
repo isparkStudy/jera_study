@@ -1,0 +1,12 @@
+C:\C#\7day\ch56\Dinner\Dinner.Common\bin\Debug\net5.0\Dinner.Common.deps.json
+C:\C#\7day\ch56\Dinner\Dinner.Common\bin\Debug\net5.0\Dinner.Common.dll
+C:\C#\7day\ch56\Dinner\Dinner.Common\bin\Debug\net5.0\ref\Dinner.Common.dll
+C:\C#\7day\ch56\Dinner\Dinner.Common\bin\Debug\net5.0\Dinner.Common.pdb
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.csproj.AssemblyReference.cache
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.AssemblyInfoInputs.cache
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.AssemblyInfo.cs
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.dll
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\ref\Dinner.Common.dll
+C:\C#\7day\ch56\Dinner\Dinner.Common\obj\Debug\net5.0\Dinner.Common.pdb
