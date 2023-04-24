@@ -1,0 +1,15 @@
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.exe
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.deps.json
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.runtimeconfig.json
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.runtimeconfig.dev.json
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.dll
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\ref\PatternMatchingWithSwitch.dll
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\bin\Debug\net5.0\PatternMatchingWithSwitch.pdb
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.AssemblyInfoInputs.cache
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.AssemblyInfo.cs
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.dll
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\ref\PatternMatchingWithSwitch.dll
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.pdb
+C:\C#\7day\ch62\PatternMatchingWithSwitch\PatternMatchingWithSwitch\obj\Debug\net5.0\PatternMatchingWithSwitch.genruntimeconfig.cache

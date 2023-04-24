@@ -1,0 +1,15 @@
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.exe
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.deps.json
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.runtimeconfig.json
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.runtimeconfig.dev.json
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.dll
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\ref\PatternMachingIf.dll
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\bin\Debug\net5.0\PatternMachingIf.pdb
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.AssemblyInfoInputs.cache
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.AssemblyInfo.cs
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.csproj.CoreCompileInputs.cache
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.dll
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\ref\PatternMachingIf.dll
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.pdb
+C:\C#\7day\ch62\PatternMachingIf\PatternMachingIf\obj\Debug\net5.0\PatternMachingIf.genruntimeconfig.cache
