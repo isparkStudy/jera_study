@@ -1,0 +1,10 @@
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe.config
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.pdb
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.AssemblyReference.cache
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.Properties.Resources.resources
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.GenerateResource.cache
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.CoreCompileInputs.cache
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.exe
+C:\C#\WPF\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.pdb
