@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyPropertyTest", "DependencyPropertyTest\DependencyPropertyTest.csproj", "{F1796DC9-3770-40AD-981D-8D5D03F91E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1796DC9-3770-40AD-981D-8D5D03F91E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1796DC9-3770-40AD-981D-8D5D03F91E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1796DC9-3770-40AD-981D-8D5D03F91E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1796DC9-3770-40AD-981D-8D5D03F91E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E4B828-9562-4474-9259-67E6193B16CA}
+	EndGlobalSection
+EndGlobal

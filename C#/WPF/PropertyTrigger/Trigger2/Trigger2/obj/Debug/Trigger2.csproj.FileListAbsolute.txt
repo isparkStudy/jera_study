@@ -1,0 +1,14 @@
+C:\C#\test\Trigger2\Trigger2\bin\Debug\Trigger2.exe.config
+C:\C#\test\Trigger2\Trigger2\bin\Debug\Trigger2.exe
+C:\C#\test\Trigger2\Trigger2\bin\Debug\Trigger2.pdb
+C:\C#\test\Trigger2\Trigger2\obj\Debug\MainWindow.g.cs
+C:\C#\test\Trigger2\Trigger2\obj\Debug\App.g.cs
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2_MarkupCompile.cache
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2_MarkupCompile.lref
+C:\C#\test\Trigger2\Trigger2\obj\Debug\MainWindow.baml
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.g.resources
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.Properties.Resources.resources
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.csproj.GenerateResource.cache
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.csproj.CoreCompileInputs.cache
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.exe
+C:\C#\test\Trigger2\Trigger2\obj\Debug\Trigger2.pdb

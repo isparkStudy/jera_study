@@ -1,0 +1,16 @@
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\bin\Debug\TunnelingEventTest.exe.config
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\bin\Debug\TunnelingEventTest.exe
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\bin\Debug\TunnelingEventTest.pdb
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.csproj.AssemblyReference.cache
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.csproj.SuggestedBindingRedirects.cache
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\MainWindow.g.cs
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\App.g.cs
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest_MarkupCompile.cache
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest_MarkupCompile.lref
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\MainWindow.baml
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.g.resources
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.Properties.Resources.resources
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.csproj.GenerateResource.cache
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.csproj.CoreCompileInputs.cache
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.exe
+C:\C#\test\EventRoutingTest\TunnelingEventTest\TunnelingEventTest\obj\Debug\TunnelingEventTest.pdb

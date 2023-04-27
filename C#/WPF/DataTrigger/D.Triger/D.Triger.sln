@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D.Triger", "D.Triger\D.Triger.csproj", "{6C4975B0-0944-48DF-B8F6-420161314182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4975B0-0944-48DF-B8F6-420161314182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4975B0-0944-48DF-B8F6-420161314182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4975B0-0944-48DF-B8F6-420161314182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4975B0-0944-48DF-B8F6-420161314182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC565B71-4094-4C15-8405-FD8A36106EBA}
+	EndGlobalSection
+EndGlobal

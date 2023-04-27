@@ -1,0 +1,16 @@
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\bin\Debug\DependencyPropertyTest.exe.config
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\bin\Debug\DependencyPropertyTest.exe
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\bin\Debug\DependencyPropertyTest.pdb
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.csproj.AssemblyReference.cache
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.csproj.SuggestedBindingRedirects.cache
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\MainWindow.g.cs
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\App.g.cs
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest_MarkupCompile.cache
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest_MarkupCompile.lref
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\MainWindow.baml
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.g.resources
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.Properties.Resources.resources
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.csproj.GenerateResource.cache
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.csproj.CoreCompileInputs.cache
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.exe
+C:\C#\test\DependencyPropertyTest\DependencyPropertyTest\DependencyPropertyTest\obj\Debug\DependencyPropertyTest.pdb

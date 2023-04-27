@@ -1,0 +1,15 @@
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\bin\Debug\D.Triger2.exe.config
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\bin\Debug\D.Triger2.exe
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\bin\Debug\D.Triger2.pdb
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Trigger2.csproj.AssemblyReference.cache
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\MainWindow.g.cs
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\App.g.cs
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2_MarkupCompile.cache
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2_MarkupCompile.lref
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\MainWindow.baml
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2.g.resources
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2.Properties.Resources.resources
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Trigger2.csproj.GenerateResource.cache
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Trigger2.csproj.CoreCompileInputs.cache
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2.exe
+C:\C#\test\DataTrigger\D.Triger2\D.Triger2\obj\Debug\D.Triger2.pdb

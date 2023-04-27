@@ -1,0 +1,15 @@
+C:\C#\test\DataTrigger\D.Triger\D.Triger\bin\Debug\D.Triger.exe.config
+C:\C#\test\DataTrigger\D.Triger\D.Triger\bin\Debug\D.Triger.exe
+C:\C#\test\DataTrigger\D.Triger\D.Triger\bin\Debug\D.Triger.pdb
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.csproj.AssemblyReference.cache
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\MainWindow.g.cs
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\App.g.cs
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger_MarkupCompile.cache
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger_MarkupCompile.lref
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\MainWindow.baml
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.g.resources
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.Properties.Resources.resources
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.csproj.GenerateResource.cache
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.csproj.CoreCompileInputs.cache
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.exe
+C:\C#\test\DataTrigger\D.Triger\D.Triger\obj\Debug\D.Triger.pdb

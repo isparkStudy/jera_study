@@ -1,0 +1,16 @@
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\bin\Debug\EventRoutingTest.exe.config
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\bin\Debug\EventRoutingTest.exe
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\bin\Debug\EventRoutingTest.pdb
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.csproj.AssemblyReference.cache
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.csproj.SuggestedBindingRedirects.cache
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\MainWindow.g.cs
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\App.g.cs
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest_MarkupCompile.cache
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest_MarkupCompile.lref
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\MainWindow.baml
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.g.resources
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.Properties.Resources.resources
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.csproj.GenerateResource.cache
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.csproj.CoreCompileInputs.cache
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.exe
+C:\C#\test\EventRoutingTest\EventRoutingTest\EventRoutingTest\obj\Debug\EventRoutingTest.pdb
